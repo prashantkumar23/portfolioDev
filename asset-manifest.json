@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/portfolioDev/static/js/main.045b7620.chunk.js",
+    "main.js.map": "/portfolioDev/static/js/main.045b7620.chunk.js.map",
+    "runtime-main.js": "/portfolioDev/static/js/runtime-main.8829d6e3.js",
+    "runtime-main.js.map": "/portfolioDev/static/js/runtime-main.8829d6e3.js.map",
+    "static/js/2.8c3e0bac.chunk.js": "/portfolioDev/static/js/2.8c3e0bac.chunk.js",
+    "static/js/2.8c3e0bac.chunk.js.map": "/portfolioDev/static/js/2.8c3e0bac.chunk.js.map",
+    "index.html": "/portfolioDev/index.html",
+    "precache-manifest.7f93864956740e6b3a5e4b16ff1e81ea.js": "/portfolioDev/precache-manifest.7f93864956740e6b3a5e4b16ff1e81ea.js",
+    "service-worker.js": "/portfolioDev/service-worker.js",
+    "static/js/2.8c3e0bac.chunk.js.LICENSE.txt": "/portfolioDev/static/js/2.8c3e0bac.chunk.js.LICENSE.txt",
+    "static/media/css3.svg": "/portfolioDev/static/media/css3.3707da3c.svg",
+    "static/media/git.svg": "/portfolioDev/static/media/git.62f80bab.svg",
+    "static/media/graphql.svg": "/portfolioDev/static/media/graphql.32bc428f.svg",
+    "static/media/html5.svg": "/portfolioDev/static/media/html5.9f2e1637.svg",
+    "static/media/javascript.svg": "/portfolioDev/static/media/javascript.61ed8b05.svg",
+    "static/media/materialui.svg": "/portfolioDev/static/media/materialui.2fadd2a1.svg",
+    "static/media/mongodb.svg": "/portfolioDev/static/media/mongodb.554c7d4b.svg",
+    "static/media/nodejs.svg": "/portfolioDev/static/media/nodejs.5c376133.svg",
+    "static/media/profileImage.svg": "/portfolioDev/static/media/profileImage.dfef6e81.svg",
+    "static/media/project.svg": "/portfolioDev/static/media/project.5986ef75.svg",
+    "static/media/reactjs.svg": "/portfolioDev/static/media/reactjs.70384772.svg",
+    "static/media/redis.svg": "/portfolioDev/static/media/redis.b4477375.svg",
+    "static/media/redux.svg": "/portfolioDev/static/media/redux.aa0a3376.svg",
+    "static/media/sql.svg": "/portfolioDev/static/media/sql.ce0fd9cb.svg",
+    "static/media/typescript.svg": "/portfolioDev/static/media/typescript.3aeee229.svg",
+    "static/media/user.svg": "/portfolioDev/static/media/user.2576f967.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8829d6e3.js",
+    "static/js/2.8c3e0bac.chunk.js",
+    "static/js/main.045b7620.chunk.js"
+  ]
+}
