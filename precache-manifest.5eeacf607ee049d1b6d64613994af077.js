@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c4528633a775dd55ea5a424567d15ab",
+    "revision": "0a3ac7c34af3ab4a5ca529a5872b7f23",
     "url": "/portfolioDev/index.html"
   },
   {
-    "revision": "70da80235f78c84ad844",
-    "url": "/portfolioDev/static/js/2.33928cef.chunk.js"
+    "revision": "7b6d652be331c15f4a1c",
+    "url": "/portfolioDev/static/js/2.70ede66d.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/portfolioDev/static/js/2.33928cef.chunk.js.LICENSE.txt"
+    "url": "/portfolioDev/static/js/2.70ede66d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a90371a6c85fe75da5c",
-    "url": "/portfolioDev/static/js/main.f00488b5.chunk.js"
+    "revision": "ce22fabe856b67c0de5a",
+    "url": "/portfolioDev/static/js/main.effdeacc.chunk.js"
   },
   {
     "revision": "7365fb1e91267bd6cce6",
     "url": "/portfolioDev/static/js/runtime-main.8829d6e3.js"
+  },
+  {
+    "revision": "d4174049d7e0d8d771729f7d3329fce7",
+    "url": "/portfolioDev/static/media/cardpic.d4174049.JPG"
   },
   {
     "revision": "3707da3c6a394c7ee2523273f8d98a25",
