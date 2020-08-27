@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.js": "/portfolioDev/static/js/main.a7da9088.chunk.js",
-    "main.js.map": "/portfolioDev/static/js/main.a7da9088.chunk.js.map",
+    "main.js": "/portfolioDev/static/js/main.f00488b5.chunk.js",
+    "main.js.map": "/portfolioDev/static/js/main.f00488b5.chunk.js.map",
     "runtime-main.js": "/portfolioDev/static/js/runtime-main.8829d6e3.js",
     "runtime-main.js.map": "/portfolioDev/static/js/runtime-main.8829d6e3.js.map",
-    "static/js/2.cb3ee9b0.chunk.js": "/portfolioDev/static/js/2.cb3ee9b0.chunk.js",
-    "static/js/2.cb3ee9b0.chunk.js.map": "/portfolioDev/static/js/2.cb3ee9b0.chunk.js.map",
+    "static/js/2.33928cef.chunk.js": "/portfolioDev/static/js/2.33928cef.chunk.js",
+    "static/js/2.33928cef.chunk.js.map": "/portfolioDev/static/js/2.33928cef.chunk.js.map",
     "index.html": "/portfolioDev/index.html",
-    "precache-manifest.3300f0c10cb924d59d741d1e401227a7.js": "/portfolioDev/precache-manifest.3300f0c10cb924d59d741d1e401227a7.js",
+    "precache-manifest.b2a42d7749a7de7d4ac0a50e9bbfa07c.js": "/portfolioDev/precache-manifest.b2a42d7749a7de7d4ac0a50e9bbfa07c.js",
     "service-worker.js": "/portfolioDev/service-worker.js",
-    "static/js/2.cb3ee9b0.chunk.js.LICENSE.txt": "/portfolioDev/static/js/2.cb3ee9b0.chunk.js.LICENSE.txt",
+    "static/js/2.33928cef.chunk.js.LICENSE.txt": "/portfolioDev/static/js/2.33928cef.chunk.js.LICENSE.txt",
     "static/media/css3.svg": "/portfolioDev/static/media/css3.3707da3c.svg",
+    "static/media/docker.svg": "/portfolioDev/static/media/docker.a1cda921.svg",
     "static/media/git.svg": "/portfolioDev/static/media/git.62f80bab.svg",
     "static/media/graphql.svg": "/portfolioDev/static/media/graphql.32bc428f.svg",
     "static/media/html5.svg": "/portfolioDev/static/media/html5.9f2e1637.svg",
     "static/media/javascript.svg": "/portfolioDev/static/media/javascript.61ed8b05.svg",
+    "static/media/kubernetes.png": "/portfolioDev/static/media/kubernetes.1d14d674.png",
     "static/media/materialui.svg": "/portfolioDev/static/media/materialui.2fadd2a1.svg",
     "static/media/mongodb.svg": "/portfolioDev/static/media/mongodb.554c7d4b.svg",
     "static/media/nodejs.svg": "/portfolioDev/static/media/nodejs.5c376133.svg",
@@ -29,7 +31,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8829d6e3.js",
-    "static/js/2.cb3ee9b0.chunk.js",
-    "static/js/main.a7da9088.chunk.js"
+    "static/js/2.33928cef.chunk.js",
+    "static/js/main.f00488b5.chunk.js"
   ]
 }
