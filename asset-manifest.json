@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/portfolioDev/static/js/main.3b845823.chunk.js",
-    "main.js.map": "/portfolioDev/static/js/main.3b845823.chunk.js.map",
+    "main.js": "/portfolioDev/static/js/main.8ae8bf65.chunk.js",
+    "main.js.map": "/portfolioDev/static/js/main.8ae8bf65.chunk.js.map",
     "runtime-main.js": "/portfolioDev/static/js/runtime-main.8829d6e3.js",
     "runtime-main.js.map": "/portfolioDev/static/js/runtime-main.8829d6e3.js.map",
-    "static/js/2.7f6324f0.chunk.js": "/portfolioDev/static/js/2.7f6324f0.chunk.js",
-    "static/js/2.7f6324f0.chunk.js.map": "/portfolioDev/static/js/2.7f6324f0.chunk.js.map",
+    "static/js/2.74c5bba1.chunk.js": "/portfolioDev/static/js/2.74c5bba1.chunk.js",
+    "static/js/2.74c5bba1.chunk.js.map": "/portfolioDev/static/js/2.74c5bba1.chunk.js.map",
     "index.html": "/portfolioDev/index.html",
-    "precache-manifest.1f595862f5131602b73f8f6ee01a73cb.js": "/portfolioDev/precache-manifest.1f595862f5131602b73f8f6ee01a73cb.js",
+    "precache-manifest.de370abf1aab2b347d76a3f1abfbc1d3.js": "/portfolioDev/precache-manifest.de370abf1aab2b347d76a3f1abfbc1d3.js",
     "service-worker.js": "/portfolioDev/service-worker.js",
-    "static/js/2.7f6324f0.chunk.js.LICENSE.txt": "/portfolioDev/static/js/2.7f6324f0.chunk.js.LICENSE.txt",
+    "static/js/2.74c5bba1.chunk.js.LICENSE.txt": "/portfolioDev/static/js/2.74c5bba1.chunk.js.LICENSE.txt",
     "static/media/cardpic.JPG": "/portfolioDev/static/media/cardpic.d4174049.JPG",
     "static/media/css3.svg": "/portfolioDev/static/media/css3.3707da3c.svg",
     "static/media/docker.svg": "/portfolioDev/static/media/docker.a1cda921.svg",
@@ -22,17 +22,15 @@
     "static/media/mongodb.svg": "/portfolioDev/static/media/mongodb.554c7d4b.svg",
     "static/media/nodejs.svg": "/portfolioDev/static/media/nodejs.5c376133.svg",
     "static/media/profileImage.svg": "/portfolioDev/static/media/profileImage.dfef6e81.svg",
-    "static/media/project.svg": "/portfolioDev/static/media/project.5986ef75.svg",
     "static/media/reactjs.svg": "/portfolioDev/static/media/reactjs.70384772.svg",
     "static/media/redis.svg": "/portfolioDev/static/media/redis.b4477375.svg",
     "static/media/redux.svg": "/portfolioDev/static/media/redux.aa0a3376.svg",
     "static/media/sql.svg": "/portfolioDev/static/media/sql.ce0fd9cb.svg",
-    "static/media/typescript.svg": "/portfolioDev/static/media/typescript.3aeee229.svg",
-    "static/media/user.svg": "/portfolioDev/static/media/user.2576f967.svg"
+    "static/media/typescript.svg": "/portfolioDev/static/media/typescript.3aeee229.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8829d6e3.js",
-    "static/js/2.7f6324f0.chunk.js",
-    "static/js/main.3b845823.chunk.js"
+    "static/js/2.74c5bba1.chunk.js",
+    "static/js/main.8ae8bf65.chunk.js"
   ]
 }
