@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/portfolioDev/static/js/main.01d1abf5.chunk.js",
-    "main.js.map": "/portfolioDev/static/js/main.01d1abf5.chunk.js.map",
+    "main.js": "/portfolioDev/static/js/main.687c8421.chunk.js",
+    "main.js.map": "/portfolioDev/static/js/main.687c8421.chunk.js.map",
     "runtime-main.js": "/portfolioDev/static/js/runtime-main.8829d6e3.js",
     "runtime-main.js.map": "/portfolioDev/static/js/runtime-main.8829d6e3.js.map",
     "static/js/2.87cdc827.chunk.js": "/portfolioDev/static/js/2.87cdc827.chunk.js",
     "static/js/2.87cdc827.chunk.js.map": "/portfolioDev/static/js/2.87cdc827.chunk.js.map",
     "index.html": "/portfolioDev/index.html",
-    "precache-manifest.8fe6f50e6634a09e29fe724ceaa4d624.js": "/portfolioDev/precache-manifest.8fe6f50e6634a09e29fe724ceaa4d624.js",
+    "precache-manifest.b57f0022294d36303be57bfc2e87fb67.js": "/portfolioDev/precache-manifest.b57f0022294d36303be57bfc2e87fb67.js",
     "service-worker.js": "/portfolioDev/service-worker.js",
     "static/js/2.87cdc827.chunk.js.LICENSE.txt": "/portfolioDev/static/js/2.87cdc827.chunk.js.LICENSE.txt",
     "static/media/cardpic.JPG": "/portfolioDev/static/media/cardpic.d4174049.JPG",
@@ -28,6 +28,6 @@
   "entrypoints": [
     "static/js/runtime-main.8829d6e3.js",
     "static/js/2.87cdc827.chunk.js",
-    "static/js/main.01d1abf5.chunk.js"
+    "static/js/main.687c8421.chunk.js"
   ]
 }
