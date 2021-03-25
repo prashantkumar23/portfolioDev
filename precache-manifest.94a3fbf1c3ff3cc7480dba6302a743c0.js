@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7be76450066fda641f5d4074b01fff00",
+    "revision": "af82aac441991b17fc4af7bbe65bb845",
     "url": "/portfolioDev/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolioDev/static/js/2.87cdc827.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ae09240617e93bd81cae",
-    "url": "/portfolioDev/static/js/main.687c8421.chunk.js"
+    "revision": "3da6ec494f00175374ac",
+    "url": "/portfolioDev/static/js/main.e3a61966.chunk.js"
   },
   {
     "revision": "7365fb1e91267bd6cce6",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolioDev/static/media/javascript.61ed8b05.svg"
   },
   {
-    "revision": "1d14d67487ebe308875125859ea181af",
-    "url": "/portfolioDev/static/media/kubernetes.1d14d674.png"
+    "revision": "35f611435bda4875cffa1520c17eb73a",
+    "url": "/portfolioDev/static/media/kubernetes.35f61143.svg"
   },
   {
     "revision": "554c7d4bfd63a3da33773978fd291c06",
